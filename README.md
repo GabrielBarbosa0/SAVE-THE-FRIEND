@@ -1,6 +1,5 @@
 # SAVE THE FRIENDS
 
-### Código Fonte anexado no repositório.
 ### Jogo executável anexado no repositório.
 
 </br>
