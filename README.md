@@ -11,6 +11,11 @@
   Codigo Fonte
 </a>
 
+<a href="/Jogo-Executável/
+executavel.zip ">
+  Jogo Executável
+</a>
+
 </br>
 
 ## Jogo desenvolvido para o GameJam
