@@ -19,7 +19,7 @@ executavel.zip ">
 </br>
 
 ## Jogo desenvolvido para o GameJam
-![Logo GameJam](https://github.com/Wesllenbr/SAVE-THE-FRIENDS/blob/84116d71930c0da5f4cb36f2ef81aa636b85f03b/Imagens/Screenshot_20220925-102851.jpg)
+<img src="/Imagens/savethefriendfont.png" alt="save the friends logo"> 
 </br>
 
 # Sobre o jogo
