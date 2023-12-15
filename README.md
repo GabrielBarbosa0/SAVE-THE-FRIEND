@@ -55,6 +55,6 @@ Agradecemos ao professor orientador Edmar Medeiros por sua valiosa contribuiçã
 
 ### Divulgue e Jogue!
 
-Ajude-nos a compartilhar essa iniciativa educativa e divertida. Salvemos juntos os amigos enfrentando os desafios psicológicos de forma empática e educativa.
+Ajude-nos a compartilhar essa iniciativa educativa e divertida. Vamos salvar juntos nossos amigos!
 
 ![ETE Logo](/Imagens/ete-logo.png)
