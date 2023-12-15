@@ -43,11 +43,11 @@ Link para download </br>
 [**https://unity.com/download**](https://unity.com/download)
 
 </br>
-- Wesllen Alexandre Amaral
-- Gean de Souza
-- Leonardo Marcelo Santana da Paz
 - André Lucas Silveira Dutra
+- Gean de Souza
 - Gabriel Gomes Barbosa
+- Leonardo Marcelo Santana da Paz
+- Wesllen Alexandre Amaral
 
 ### Agradecimentos Especiais
 
