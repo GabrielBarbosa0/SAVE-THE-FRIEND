@@ -44,8 +44,8 @@ Link para download </br>
 
 </br>
 - André Lucas Silveira Dutra
-- Gean de Souza
 - Gabriel Gomes Barbosa
+- Gean de Souza
 - Leonardo Marcelo Santana da Paz
 - Wesllen Alexandre Amaral
 
